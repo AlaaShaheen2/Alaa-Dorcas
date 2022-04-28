@@ -1,0 +1,14 @@
+@media all and (max-width: 500px){
+    body{
+        color: aquamarine;
+    }
+}
+#header-img {
+    max-width: 400px;
+    margin: 0 auto;
+    position: auto ;
+    padding: 0px;
+    height: auto;
+    display: block;
+
+}
